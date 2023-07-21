@@ -1,0 +1,3 @@
+python defense.py --input_dir=""E:\desktop\task\NIPS2017_adv_challenge_defense-master\NIPS2017_adv_challenge_defense-master\in"" --output_file=""E:\desktop\task\NIPS2017_adv_challenge_defense-master\NIPS2017_adv_challenge_defense-master\out"" --checkpoint_path=""E:\desktop\task\NIPS2017_adv_challenge_defense-master\NIPS2017_adv_challenge_defense-master\ens_adv_inception_resnet_v2_2017\ens_adv_inception_resnet_v2.ckpt""
+
+"E:\desktop\task\NIPS2017_adv_challenge_defense-master\NIPS2017_adv_challenge_defense-master\ens_adv_inception_resnet_v2_2017\ens_adv_inception_resnet_v2.ckpt.data-00000-of-00001"

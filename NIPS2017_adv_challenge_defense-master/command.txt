@@ -1,0 +1,9 @@
+python defense.py --input_dir="E:\desktop\task\NIPS2017_adv_challenge_defense-ma
+ster\NIPS2017_adv_challenge_defense-master\in" --output_file="E:\desktop\task\NIPS2017_adv_challenge_defense-master\NIPS2017_adv_challenge_defense-master\out\1.txt" --checkpoint_path="E:\desktop\task\NIPS2017_adv_challenge_defense-master\NIPS2017_adv_challenge_defense-master\ens_adv_inception_resnet_v2_2017\ens_adv_inception_resnet_v2.ckpt"
+
+
+"E:\desktop\task\NIPS2017_adv_challenge_defense-master\NIPS2017_adv_challenge_defense-master\out\1.txt"
+
+"E:\desktop\task\2023-7-17\new\tensorflow-1.10.0"
+
+python defense.py --input_dir="E:\desktop\task\NIPS2017_adv_challenge_defense-master\NIPS2017_adv_challenge_defense-master\in" --output_file="E:\desktop\task\NIPS2017_adv_challenge_defense-master\NIPS2017_adv_challenge_defense-master\out\1.txt" --checkpoint_path="E:\desktop\task\NIPS2017_adv_challenge_defense-master\NIPS2017_adv_challenge_defense-master\ens_adv_inception_resnet_v2_2017\ens_adv_inception_resnet_v2.ckpt"
